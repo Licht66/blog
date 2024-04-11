@@ -6,8 +6,6 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
-ruby "3.2.2"
-gem "rails", "~> 7.1.3", ">= 7.1.3.2"
 
 * System dependencies
 
